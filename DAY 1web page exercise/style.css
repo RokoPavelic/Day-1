@@ -1,0 +1,53 @@
+h1 {
+  color: #444;
+}
+
+h2 {
+  color: #444;
+  font-size: 1em;
+}
+
+h3 {
+  color: #444;
+  font-size: 1em;
+}
+
+body {
+  margin-left: 25em;
+  border-left: 5px solid #2baadf;
+  padding-left: 3em;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  color: #2baadf;
+  font-weight: bold;
+}
+
+p {
+  color: #444;
+  width: 45%;
+}
+
+.firstsection {
+  border-bottom: 1px solid #444;
+  margin-right: 5em;
+}
+.date {
+  color: #cccccc;
+}
+
+.seconddate {
+  color: #cccccc;
+}
+
+.firstpic {
+  width: 50%;
+}
+.secondpic {
+  width: 50%;
+}
+
+.thirdpic {
+  width: 50%;
+}
